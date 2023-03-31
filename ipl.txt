@@ -1,0 +1,4 @@
+Személyek	Név		Ár
+	2	Sloop		250000
+	3	Brigantine	375000
+	4	Galleon		500000
