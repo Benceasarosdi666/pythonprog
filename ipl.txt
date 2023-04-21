@@ -1,4 +1,12 @@
-Személyek	Név		Ár
-	2	Sloop		250000
-	3	Brigantine	375000
-	4	Galleon		500000
+Férőhely	Név		Ár		Kategória
+	2	10F		1675000		sport
+	2	Vigero ZX	1974000		sport
+	4	Caracara 4x4	875000		off-road
+	4	Kamacho		345000		off-road
+	2	Kanjo		580000		compact
+	2	Asbo		306000		compact
+	2	Tyus		2550000		super
+	2	Krieger		2875000		super
+	4	Tailgater S	1495000		sedan
+	4	Schafter v12	116000		sedan
+	
