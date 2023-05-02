@@ -9,4 +9,3 @@ Férőhely;Név;Ár;Kategória
 2;Krieger;2875000;super
 4;Tailgater S;1495000;sedan
 4;Schafter v12;116000;sedan
-	
