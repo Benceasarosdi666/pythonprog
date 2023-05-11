@@ -9,3 +9,25 @@ Férőhely;Név;Ár;Kategória
 2;Krieger;2875000;super
 4;Tailgater S;1495000;sedan
 4;Schafter v12;116000;sedan
+2;Pfister 811;1135000;super
+2;Adder;1000000;super
+2;Ardent;1150000;sport
+4;Astron;1580000;SUV
+4;Baller LE;149000;SUV
+6;Dubsta 6x6;249000;off-road
+6;Granger 3600LX;1380000;SUV
+2;Calico GTF;1995000;Tuner
+2;Comet S2;1878000;Tuner
+2;Euros;1800000;Tuner
+2;Dominator ASP;1775000;Izom
+2;Arbiter GT;375000;Izom
+4;Buffalo STX;2150000;Izom
+2;Buccaneer;29000;Izom
+2;Chino Custom;180000;low-rider
+2;Faction Custom;335000;low-rider
+4;Moonbeam Custom;370000;low-rider
+4;Minivan Custom;330000;low-rider
+2;Nero Custom;605000;super
+4;Stefford;1272000;sedan
+2;Warrener HKR;1260000;sedan
+4;Rhinehart;1598000;sedan
